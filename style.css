@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 875px;
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+div {
+  margin-bottom: 1rem;
+}
